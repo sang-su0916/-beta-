@@ -1,8 +1,5 @@
-setuptools>=65.5.0
-wheel>=0.38.0
-streamlit==1.25.0
-pandas==1.5.3
-numpy==1.24.3
-pygments==2.19.1
-markdown-it-py==3.0.0
-rich==13.9.4
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.2
+plotly==5.18.0
+xlsxwriter==3.1.9
